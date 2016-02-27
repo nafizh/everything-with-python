@@ -1,2 +1,2 @@
-# machine-learning-with-python
-code I write while learning from the book "python machine learning"
+# everything with python
+All new things I try to learn with and about python
